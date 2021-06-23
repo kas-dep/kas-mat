@@ -1,8 +1,11 @@
-body{
-    background: lightcyan;
+body {
+  background: lightcyan;
 }
-.task5{
-    font-size: 32px;
-    color: rgb(197, 0, 197);
-    margin: 16px
+.task5 {
+  font-size: 32px;
+  color: rgb(197, 0, 197);
+  margin: 16px;
+}
+.over {
+  color: red;
 }
