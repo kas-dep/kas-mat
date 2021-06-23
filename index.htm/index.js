@@ -1,8 +1,8 @@
-const element = document.querySelector('.btn');
 const element = document.querySelector(".element");
 element.addEventListener("click", () => {
   alert("Element 3 clicked");
 });
+const element = document.querySelector('.btn');
 const title = document.querySelector(".title");
 title.addEventListener("mouseover", () => {
   title.classList.add("over");
